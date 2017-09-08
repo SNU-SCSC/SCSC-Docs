@@ -104,11 +104,11 @@
 
 &nbsp;&nbsp;**제18 조 (선거)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;**제1 항**&nbsp;&nbsp;회장은 본회 정회원으로서, 타인의 추천을 받아 재적 과반수 출석에 정회원 출석 인원 과반수의 찬성으로 선출한다.
+<a name="C4A18S1"></a>&nbsp;&nbsp;&nbsp;&nbsp;**제1 항**&nbsp;&nbsp;회장은 본회 정회원으로서, 타인의 추천을 받아 재적 과반수 출석에 정회원 출석 인원 과반수의 찬성으로 선출한다.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**제2 항**&nbsp;&nbsp;전 항의 득표자가 없을 때에는 최고 득표자와 차점자에 대하여 결선투표를 하여 다수 득표자로 회장을 정한다.
+<a name="C4A18S1"></a>&nbsp;&nbsp;&nbsp;&nbsp;**제2 항**&nbsp;&nbsp;[전 항](#C4A18S1)의 득표자가 없을 때에는 최고 득표자와 차점자에 대하여 결선투표를 하여 다수 득표자로 회장을 정한다.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**제3 항**&nbsp;&nbsp;단독 출마자의 경우, 전 항에 준하여 회장을 정한다.
+&nbsp;&nbsp;&nbsp;&nbsp;**제3 항**&nbsp;&nbsp;단독 출마자의 경우, [전 항](#C4A18S2)에 준하여 회장을 정한다.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**제4 항**&nbsp;&nbsp;선거는 무기명 투표로 한다.
 
